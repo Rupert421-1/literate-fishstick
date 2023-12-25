@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-25 20:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: config/settings.py:123
+msgid "Uzbek"
+msgstr ""
+
+#: config/settings.py:124
+msgid "English"
+msgstr ""
+
+#: config/settings.py:125
+msgid "Russian"
+msgstr ""
+
+#: config/settings.py:126
+msgid "Turkish"
+msgstr ""
+
+#: templates/index.html:69 templates/index.html:118
+msgid "О нас"
+msgstr "About us"
+
+#: templates/index.html:70 templates/index.html:278
+msgid "Контакт"
+msgstr "Contact"
+
+#: templates/index.html:71
+msgid "Заказать"
+msgstr "Order"
+
+#: templates/index.html:72
+msgid "Блог"
+msgstr "Blog"
+
+#: templates/index.html:122
+msgid ""
+"'OOO MUROD TT LOGISTIC' – ваш надежный партнер в логистике Компания 'MUROD "
+"TT LOGISTIC' предоставляет широкий спектр логистических услуг на территории "
+"Узбекистана. Мы гарантируем высокое качество услуг и соблюдение всех "
+"договоренностей. Наши преимущества: Надежность: компания является официально "
+"зарегистрированным юридическим лицом, что гарантирует ее финансовую "
+"устойчивость и стабильность. Опыт: наши сотрудники имеют большой опыт работы "
+"в логистике, что позволяет нам предоставлять качественные услуги в сжатые "
+"сроки. Профессионализм: наши сотрудники обладают высокой квалификацией и "
+"постоянно повышают свой мастерства Свяжитесь с нами сегодня, чтобы узнать "
+"больше о наших услугах!"
+msgstr "'OOO MUROD TT LOGISTIC' is your reliable partner in logistics The company 'MUROD TT LOGISTIC' provides a wide range of logistics services in Uzbekistan. We guarantee high quality services and compliance with all agreements. Our advantages: Reliability: the company is an officially registered legal entity, which guarantees its financial strength and stability. Experience: our employees have extensive experience in logistics, which allows us to provide quality services in a short time. Professionalism: Our employees are highly qualified and constantly improve their skills Contact us today to learn more about our services!"
+
+#: templates/index.html:131
+msgid "наши"
+msgstr "our"
+
+#: templates/index.html:132
+msgid "команды"
+msgstr "team"
+
+#: templates/index.html:140
+msgid "Основатель"
+msgstr "Creator"
+
+#: templates/index.html:145
+msgid "Директор"
+msgstr "Director"
+
+#: templates/index.html:152 templates/index.html:157 templates/index.html:164
+#: templates/index.html:169 templates/index.html:176 templates/index.html:181
+msgid "Рабочий"
+msgstr "Worker"
+
+#: templates/index.html:196
+msgid "Наши партнеры"
+msgstr "Our partners"
+
+#: templates/index.html:244
+msgid "Социальные"
+msgstr "Social"
+
+#: templates/index.html:245
+msgid "сети"
+msgstr "media"
+
+#: templates/index.html:249
+msgid ""
+"Вы всегда можете следить за нами в социальных сетях. Для этого мы "
+"рекомендуем вам подписаться на наши страницы в социальных сетях."
+msgstr "You can always follow us on social networks. To do this, we recommend that you subscribe to our pages on social networks."
+
+#: templates/index.html:279
+msgid "связь"
+msgstr "contact"
+
+#: templates/index.html:285
+msgid "Как мы можем вам помочь?"
+msgstr "How can we help you?"
+
+#: templates/index.html:294
+msgid "Имя..."
+msgstr "Name..."
+
+#: templates/index.html:297
+msgid "Электронная почта..."
+msgstr "Email..."
+
+#: templates/index.html:300
+msgid "Тема..."
+msgstr "Subject..."
+
+#: templates/index.html:303
+msgid "Оставить сообщение..."
+msgstr "Leave a message..."
+
+#: templates/index.html:309 templates/index.html:397
+msgid "отправлять"
+msgstr "send"
+
+#: templates/index.html:323
+msgid "Телефон"
+msgstr "Phone"
+
+#: templates/index.html:335
+msgid "Адрес"
+msgstr "Address"
+
+#: templates/index.html:336
+msgid "город Самарканд"
+msgstr "Samarkand City"
+
+#: templates/index.html:364
+msgid "Наши сервисы"
+msgstr "Our services"
+
+#: templates/index.html:372 templates/index.html:373
+msgid "откуда"
+msgstr "from where"
+
+#: templates/index.html:376 templates/index.html:377
+msgid "куда"
+msgstr "to where"
+
+#: templates/index.html:380 templates/index.html:381
+msgid "Сколько тонн груза"
+msgstr "Weight"
+
+#: templates/index.html:384 templates/index.html:385
+msgid "Когда"
+msgstr "When"
+
+#: templates/index.html:388
+msgid "Тип грузовика"
+msgstr "Truck type"
+
+#: templates/index.html:423
+msgid "Наши"
+msgstr "Our"
+
+#: templates/index.html:424
+msgid "работы"
+msgstr "works"
