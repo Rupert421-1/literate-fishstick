@@ -162,4 +162,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 TELEGRAM = {
     'bot_token': '6951620991:AAG_Dod8hQjtg3mOi8RRofmjjmY32G61zTk',
     'channel_name': 'murad_tt_orders',
+    'chat_id': '-1002006301875',
 }
