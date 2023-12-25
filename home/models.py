@@ -81,7 +81,7 @@ async def post_event_on_telegram(from_where, to_where, weight, when, truck_type)
     message_html = render_to_string('event.html', {'event': event})
     telegram_settings = settings.TELEGRAM
     bot = telegram.Bot(token=telegram_settings['bot_token'])
-    await bot.send_message(chat_id="@%s" % telegram_settings['channel_name'], text=message_html, parse_mode='HTML')
+    await bot.send_message(chat_id=telegram_settings['chat_id'], text=message_html, parse_mode='HTML')
     print('event sent')
 
 
